@@ -1,6 +1,6 @@
-idef add(x,y): 
+def add(x,y,z): 
 
-    pass 
+    pass (x+y+z)
 
 def subtract(x,y): 
 
@@ -8,7 +8,7 @@ def subtract(x,y):
 
 def multiply(x,y): 
 
-    pass 
+    pass (x*y) 
 
 def divide(x,y): 
 
@@ -17,4 +17,5 @@ def divide(x,y):
 def square(x,y): 
 
     pass 
+
 
